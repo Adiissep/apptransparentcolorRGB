@@ -1,0 +1,13 @@
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\bin\Debug\AppTransparentColorRGB.exe.config
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\bin\Debug\AppTransparentColorRGB.exe
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\bin\Debug\AppTransparentColorRGB.pdb
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\bin\Debug\AppTransparentColorRGB.xml
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.vbproj.AssemblyReference.cache
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.Resources.resources
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.Form1.resources
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.vbproj.GenerateResource.cache
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.vbproj.CoreCompileInputs.cache
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.exe
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.xml
+C:\Users\Maatbook D14\source\repos\AppTransparentColorRGB\obj\Debug\AppTransparentColorRGB.pdb
